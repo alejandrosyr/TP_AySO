@@ -1,0 +1,206 @@
+ssh-keygen
+ls -l /.ssh
+ls 
+ls -l
+ls home/.ssh
+ls - a /home
+cd home/osboxes
+cd home
+cd .home
+cd /
+cd /home
+cd /home/osboxes
+ls
+ls -a
+cd .sshh
+cd .ssh
+ls -a 
+more id_ed25519
+sudo snap install firefox
+more id_ed25519
+ssh-keygen
+more id_ed25519
+cat id_ed25519
+ssh-keygen
+more id_ed25519
+la
+ls -a
+more id_ed25519.pub
+cd
+mkdir repogit
+cd repogit
+git clone [200~git@github.com:alejandrosyr/TP_AySO.git~
+sudo apt install git
+git clone git@github.com:alejandrosyr/TP_AySO.git
+cd TP_AySO/
+ls -l
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+man grep
+gre -i home_url /etc/os-release 
+grep -i home_url /etc/os-release 
+whoami
+echo " Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+git add.
+git add .
+cd ..
+cd /home
+mkdir desarrollo
+sudo mkdir desarrollo
+ls -l
+cd /desarrollo
+pwd
+cd /desarrollo
+cd desarrollo/
+mkdir python java c
+cd ..
+cd 
+mkdir desarrollo
+cd desarrollo/
+mkdir python java c
+ls -l
+mkdir archivos/{enero, febrero}/fotos
+mkdir archivos/{enero,febrero}/fotos
+mkdir -p archivos/{enero,febrero}/fotos
+ls -l
+cd archivos
+ls -l
+cd enero
+ls -l
+cs ..
+tree
+cd ..
+tree
+cd
+mkdir desarrollo/archivos/marzo
+tree
+mkdir desarrollo/archivos/marzo/fotos
+mkdir -p desarrollo/archivos/abril/fotos
+tree
+top
+top > procesos.txt
+ls -l
+mv historial.jpg desarrollo/archivos/
+ls desarrollo/archivos/
+cp desarrollo/archivos/historial.jpg desarrollo/archivos/marzo/
+ls desarrollo/archivos/mar
+ls desarrollo/archivos/marzo/
+rm desarrollo/archivos/marzo/historial.jpg 
+ls desarrollo/archivos/marzo
+rm desarrollo/archivos/marzo/
+rm dir desarrollo/archivos/marzo/
+rmdir desarrollo/archivos/marzo/
+ls desarrollo/archivos/marzo/
+man rmdir
+rmdir -p desarrollo/archivos/marzo/
+man rmdir
+ls desarrollo/archivos/marzo/
+rmdir desarrollo/archivos/marzo/fotos/
+rmdir desarrollo/archivos/marzo/
+ls desarrollo/archivos/
+cd 
+git config --global user.email "alejandroyugar@gmail.com"
+git config --global user.name "alejandrosyr"
+ls 
+cd repogit/
+ls
+cd TP_AySO/
+ls
+git config --global user.name "alejandrosyr"
+git config --global user.email "alejandroyugar@gmail.com"
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+man grep
+grep /proc/cpuinfo
+ls /proc
+ls -l /pro
+ls -l /proc
+ls -l /proc/[cpu]*
+more /proc/cpuinfo 
+ls -l
+cd .
+cd 
+ls -l
+cd repogit/
+cd TP_AySO/
+more /proc/cpuinfo | grep "model_name" | head -n 1
+cat /proc/cpuinfo | grep "model_name" | head -n 1
+ls -l
+cat /proc/cpuinfo | grep "model name" | head -n 1 >> datos_usuario.txt
+more datos_usuario.txt 
+git add .
+git commit -m "FEAT: Anadiendo informacion de CPU" 
+man help
+help
+help ls
+ls --help
+0
+-help
+cdd /
+cd /
+cd 
+man tail
+ls
+cd repogit/
+cd TP_AySO/
+ls
+tail README.md 
+tail datos_usuario.txt 
+tail -n 1 datos_usuario.txt 
+tail -n 2 datos_usuario.txt 
+ls /etc/passwd
+ls -l /etc/passwd
+ls -l /etc/passwd/
+man grep
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+ls
+more lista_ordenada
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada.txt
+ls
+more lista_ordenada.txt
+rm lista_ordenada
+ls
+man sort
+sort --help
+more /etc/passwd
+more lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k7 > lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k7 > lista_ordenada2.txt
+more lista_ordenada2.txt 
+more lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada.txt
+more lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k7 > lista_ordenada.txt
+rm lista_ordenada2.txt 
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+echo "tcpdump" > comando_dump_net
+man network traffic
+apropos " network traffic" 
+apropos dump traffic
+echo "apropos 'dump traffic'" >> comando_dump_net 
+more comando_dump_net 
+apropos 'dump traffic' 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tr'afico de red"
+ls -l
+cat << EOF >> README.md
+Alumno: Alejandro Sebastian Yugar Rodriguez
+Division: 112
+Turno: Manana
+EOF
+
+more README.md 
+git add .
+git commit -m "feat
+
+
+q
+git 
+
+
+
+" 
+git commit -m "feat: agregando informacion a README.md" 
+history -a
